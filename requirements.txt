@@ -1,0 +1,16 @@
+pandas
+numpy
+pyarrow
+scikit-learn
+matplotlib
+tqdm
+psutil
+
+sentence-transformers
+torch
+transformers
+
+faiss-cpu
+rank-bm25
+
+streamlit
