@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/raw/*
+data/processed/*
+data/embeddings/*
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/embeddings/.gitkeep
+
+# Large files
+*.csv
+*.parquet
+*.npy
+*.npz
+*.faiss
+*.index
+*.pkl
+*.joblib
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Secrets
+.env
+kaggle.json
