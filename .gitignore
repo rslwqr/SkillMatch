@@ -37,3 +37,19 @@ data/embeddings/*
 # Secrets
 .env
 kaggle.json
+
+# Local indexes
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Dense embeddings and vector indexes
+*.npy
+*.index
+
+# Experiment outputs
+results/
+
+# Test corpora
+data/processed/corpus_test.parquet
+data/processed/corpus_test_10k.parquet
