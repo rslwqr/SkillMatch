@@ -1,0 +1,2 @@
+system,documents,M,efConstruction,efSearch,ann_recall_at_10,mean_latency_ms,p95_latency_ms,min_latency_ms,max_latency_ms,index_build_time_seconds,index_size_mb,index_vectors,process_ram_mb,results_path
+hnsw_m16_efc100_efs64,500000,16,100,64,0.94,0.15108992000023136,0.18663320000058545,0.035665999998713005,0.20233400000080337,14.060075708,801.2204532623291,500000,4262.421875,results/hnsw/hnsw_m16_efc100_efs64_top20.csv
