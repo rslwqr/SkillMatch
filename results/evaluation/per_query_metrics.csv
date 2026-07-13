@@ -1,0 +1,76 @@
+system,query_id,retrieved_at_k,judged_at_k,judgement_coverage_at_k,judged_documents,relevant_judged_documents,ndcg_at_10,mrr_at_10,precision_at_10,recall_at_10,query,category,latency_ms
+bm25,Q01,10,10,1.0,20,7,0.4758579380777689,0.5,0.3,0.42857142857142855,junior data analyst with SQL Tableau and Python,data,581.6099300000133
+bm25,Q02,10,10,1.0,20,9,0.2209802309406077,0.5,0.1,0.1111111111111111,machine learning engineer with NLP PyTorch and transformers,data,508.63699199999246
+bm25,Q03,10,10,1.0,20,17,0.6244280995325103,1.0,0.7,0.4117647058823529,business intelligence analyst with Power BI and dashboard experience,data,634.0869690002364
+bm25,Q04,10,10,1.0,19,18,0.869301136873139,1.0,0.9,0.5,data engineer with Spark Airflow and cloud experience,data,596.5507939999952
+bm25,Q05,10,10,1.0,18,16,0.7457412575010213,1.0,0.8,0.5,backend Java developer with Spring Boot and microservices,software,484.5524649999789
+bm25,Q06,10,10,1.0,17,14,0.6731418547132739,0.5,0.8,0.5714285714285714,frontend developer with React TypeScript and modern web applications,software,514.0404720000333
+bm25,Q07,10,10,1.0,19,19,0.8339187881152345,1.0,1.0,0.5263157894736842,DevOps engineer with AWS Docker Kubernetes and CI/CD,software,500.4160019998381
+bm25,Q08,10,10,1.0,16,16,1.0,1.0,1.0,0.625,mobile iOS developer with Swift and UIKit,software,478.5541739997825
+bm25,Q09,10,10,1.0,19,19,0.9132787479554084,1.0,1.0,0.5263157894736842,registered nurse with oncology experience,medicine,345.9704490001059
+bm25,Q10,10,10,1.0,20,18,0.9432106656105237,1.0,0.9,0.5,emergency room nurse with acute care experience,medicine,401.2767249996614
+bm25,Q11,10,10,1.0,17,15,0.7238115794125342,1.0,0.8,0.5333333333333333,physical therapist for outpatient rehabilitation,medicine,285.09398799997143
+bm25,Q12,10,10,1.0,17,13,0.918752830540385,1.0,0.9,0.6923076923076923,financial analyst with Excel Power BI and forecasting,finance,530.232492000323
+bm25,Q13,10,10,1.0,20,19,1.0,1.0,1.0,0.5263157894736842,accountant with tax reporting and audit experience,finance,568.4462059998623
+bm25,Q14,10,10,1.0,20,16,0.9687065574252721,1.0,0.9,0.5625,risk analyst with banking and regulatory compliance experience,finance,612.7402980000625
+bm25,Q15,10,10,1.0,16,14,0.8484523124628118,1.0,0.9,0.6428571428571429,digital marketing specialist with SEO Google Ads and analytics,marketing,532.1507949997795
+bm25,Q16,10,10,1.0,18,17,0.5904680426678331,1.0,0.9,0.5294117647058824,content marketing manager with social media strategy,marketing,317.60026200026914
+bm25,Q17,10,10,1.0,18,14,0.6754420500956949,0.5,0.9,0.6428571428571429,remote project manager with Agile Scrum and Jira,project_management,526.1143970001285
+bm25,Q18,10,10,1.0,19,19,0.9552009891550427,1.0,1.0,0.5263157894736842,technical project manager for software development teams,project_management,381.7258069998388
+bm25,Q19,10,10,1.0,18,18,1.0,1.0,1.0,0.5555555555555556,sales representative with B2B SaaS experience,sales,343.207758999597
+bm25,Q20,10,10,1.0,19,19,0.9580777588003657,1.0,1.0,0.5263157894736842,account executive with CRM and enterprise sales experience,sales,604.1611509999711
+bm25,Q21,10,10,1.0,17,12,0.6643234258757271,1.0,0.8,0.6666666666666666,high school mathematics teacher,education,133.00956400007635
+bm25,Q22,10,10,1.0,18,18,0.8450923023011544,1.0,1.0,0.5555555555555556,instructional designer for online learning platforms,education,298.69528400013223
+bm25,Q23,10,10,1.0,17,17,0.8091134601918768,1.0,1.0,0.5882352941176471,supply chain analyst with inventory and logistics experience,operations,595.2734379998219
+bm25,Q24,10,10,1.0,20,20,0.874233276401097,1.0,1.0,0.5,operations manager with warehouse and process improvement experience,operations,667.4594020000768
+bm25,Q25,10,10,1.0,19,18,0.6999879633876263,1.0,0.9,0.5,customer service representative with communication and CRM skills,customer_service,682.1423540000069
+dense_flat,Q01,10,10,1.0,20,7,0.6148352923016787,1.0,0.4,0.5714285714285714,junior data analyst with SQL Tableau and Python,data,515.2642819998619
+dense_flat,Q02,10,10,1.0,20,9,0.8276541850139321,1.0,0.8,0.8888888888888888,machine learning engineer with NLP PyTorch and transformers,data,19.359463999990112
+dense_flat,Q03,10,10,1.0,20,17,0.7671912189922424,1.0,1.0,0.5882352941176471,business intelligence analyst with Power BI and dashboard experience,data,18.91044099966166
+dense_flat,Q04,10,10,1.0,19,18,0.5732030805356374,1.0,1.0,0.5555555555555556,data engineer with Spark Airflow and cloud experience,data,20.23030299960737
+dense_flat,Q05,10,10,1.0,18,16,0.827879884347265,1.0,1.0,0.625,backend Java developer with Spring Boot and microservices,software,23.610786000062944
+dense_flat,Q06,10,10,1.0,17,14,0.7792059123819695,1.0,0.9,0.6428571428571429,frontend developer with React TypeScript and modern web applications,software,21.803325999826484
+dense_flat,Q07,10,10,1.0,19,19,0.5799041252609625,1.0,1.0,0.5263157894736842,DevOps engineer with AWS Docker Kubernetes and CI/CD,software,24.77846300007513
+dense_flat,Q08,10,10,1.0,16,16,0.6440587583691855,1.0,1.0,0.625,mobile iOS developer with Swift and UIKit,software,20.14399700010472
+dense_flat,Q09,10,10,1.0,19,19,0.9552009891550427,1.0,1.0,0.5263157894736842,registered nurse with oncology experience,medicine,19.94844499995452
+dense_flat,Q10,10,10,1.0,20,18,0.7020235183818109,1.0,0.9,0.5,emergency room nurse with acute care experience,medicine,19.04322600012165
+dense_flat,Q11,10,10,1.0,17,15,0.8489673177896404,1.0,1.0,0.6666666666666666,physical therapist for outpatient rehabilitation,medicine,19.89065700036008
+dense_flat,Q12,10,10,1.0,17,13,0.6518747835820288,1.0,0.6,0.46153846153846156,financial analyst with Excel Power BI and forecasting,finance,19.895456000085687
+dense_flat,Q13,10,10,1.0,20,19,0.5161430508899977,1.0,0.9,0.47368421052631576,accountant with tax reporting and audit experience,finance,18.819339999936343
+dense_flat,Q14,10,10,1.0,20,16,0.3800771462513061,1.0,0.7,0.4375,risk analyst with banking and regulatory compliance experience,finance,19.19236699995963
+dense_flat,Q15,10,10,1.0,16,14,0.9566150453737075,1.0,0.9,0.6428571428571429,digital marketing specialist with SEO Google Ads and analytics,marketing,18.945455999983096
+dense_flat,Q16,10,10,1.0,18,17,0.9264983288251022,1.0,1.0,0.5882352941176471,content marketing manager with social media strategy,marketing,18.85006400016209
+dense_flat,Q17,10,10,1.0,18,14,0.623400080939452,1.0,0.7,0.5,remote project manager with Agile Scrum and Jira,project_management,18.93155800007662
+dense_flat,Q18,10,10,1.0,19,19,0.7317403027165548,1.0,1.0,0.5263157894736842,technical project manager for software development teams,project_management,18.958983000175067
+dense_flat,Q19,10,10,1.0,18,18,0.877666448931519,1.0,1.0,0.5555555555555556,sales representative with B2B SaaS experience,sales,19.710813000074268
+dense_flat,Q20,10,10,1.0,19,19,0.7676346971971055,1.0,1.0,0.5263157894736842,account executive with CRM and enterprise sales experience,sales,23.573443999794108
+dense_flat,Q21,10,10,1.0,17,12,0.7860998276264536,1.0,0.7,0.5833333333333334,high school mathematics teacher,education,22.18749899975592
+dense_flat,Q22,10,10,1.0,18,18,0.911671805955201,1.0,1.0,0.5555555555555556,instructional designer for online learning platforms,education,21.100755999668763
+dense_flat,Q23,10,10,1.0,17,17,0.880543218576842,1.0,1.0,0.5882352941176471,supply chain analyst with inventory and logistics experience,operations,19.95397500013496
+dense_flat,Q24,10,10,1.0,20,20,0.9580777588003657,1.0,1.0,0.5,operations manager with warehouse and process improvement experience,operations,18.64805500008515
+dense_flat,Q25,10,10,1.0,19,18,0.8600766329607304,1.0,1.0,0.5555555555555556,customer service representative with communication and CRM skills,customer_service,19.17704900006356
+hnsw,Q01,10,10,1.0,20,7,0.645565611214854,1.0,0.5,0.7142857142857143,junior data analyst with SQL Tableau and Python,data,0.1674270001785771
+hnsw,Q02,10,9,0.9,20,9,0.7946448808899043,1.0,0.7,0.7777777777777778,machine learning engineer with NLP PyTorch and transformers,data,0.2511949996915064
+hnsw,Q03,10,10,1.0,20,17,0.7671912189922424,1.0,1.0,0.5882352941176471,business intelligence analyst with Power BI and dashboard experience,data,0.3376939998815942
+hnsw,Q04,10,10,1.0,19,18,0.5732030805356374,1.0,1.0,0.5555555555555556,data engineer with Spark Airflow and cloud experience,data,0.280451999969955
+hnsw,Q05,10,10,1.0,18,16,0.827879884347265,1.0,1.0,0.625,backend Java developer with Spring Boot and microservices,software,0.210671999866463
+hnsw,Q06,10,10,1.0,17,14,0.7792059123819695,1.0,0.9,0.6428571428571429,frontend developer with React TypeScript and modern web applications,software,0.2092620002258627
+hnsw,Q07,10,10,1.0,19,19,0.5799041252609625,1.0,1.0,0.5263157894736842,DevOps engineer with AWS Docker Kubernetes and CI/CD,software,0.2520560001357808
+hnsw,Q08,10,10,1.0,16,16,0.6440587583691855,1.0,1.0,0.625,mobile iOS developer with Swift and UIKit,software,0.2069510001092567
+hnsw,Q09,10,10,1.0,19,19,0.9552009891550427,1.0,1.0,0.5263157894736842,registered nurse with oncology experience,medicine,0.2425669999865931
+hnsw,Q10,10,10,1.0,20,18,0.6544333259321243,1.0,0.9,0.5,emergency room nurse with acute care experience,medicine,0.2998690001732029
+hnsw,Q11,10,10,1.0,17,15,0.8489673177896404,1.0,1.0,0.6666666666666666,physical therapist for outpatient rehabilitation,medicine,0.302159000057145
+hnsw,Q12,10,10,1.0,17,13,0.6700521516388721,1.0,0.7,0.5384615384615384,financial analyst with Excel Power BI and forecasting,finance,0.3543310003806255
+hnsw,Q13,10,8,0.8,20,19,0.5621903070993413,1.0,0.8,0.42105263157894735,accountant with tax reporting and audit experience,finance,0.3487730000415467
+hnsw,Q14,10,10,1.0,20,16,0.3800771462513061,1.0,0.7,0.4375,risk analyst with banking and regulatory compliance experience,finance,0.3470920000836486
+hnsw,Q15,10,10,1.0,16,14,0.9566150453737075,1.0,0.9,0.6428571428571429,digital marketing specialist with SEO Google Ads and analytics,marketing,0.3377339999133255
+hnsw,Q16,10,10,1.0,18,17,0.9264983288251022,1.0,1.0,0.5882352941176471,content marketing manager with social media strategy,marketing,0.3034490000572987
+hnsw,Q17,10,10,1.0,18,14,0.623400080939452,1.0,0.7,0.5,remote project manager with Agile Scrum and Jira,project_management,0.3267759998379915
+hnsw,Q18,10,10,1.0,19,19,0.7317403027165548,1.0,1.0,0.5263157894736842,technical project manager for software development teams,project_management,0.2489360003892216
+hnsw,Q19,10,10,1.0,18,18,0.877666448931519,1.0,1.0,0.5555555555555556,sales representative with B2B SaaS experience,sales,0.3292249998594343
+hnsw,Q20,10,10,1.0,19,19,0.7676346971971055,1.0,1.0,0.5263157894736842,account executive with CRM and enterprise sales experience,sales,0.3892469999300374
+hnsw,Q21,10,10,1.0,17,12,0.7860998276264536,1.0,0.7,0.5833333333333334,high school mathematics teacher,education,0.2027829996222863
+hnsw,Q22,10,10,1.0,18,18,0.911671805955201,1.0,1.0,0.5555555555555556,instructional designer for online learning platforms,education,0.2667439998731424
+hnsw,Q23,10,10,1.0,17,17,0.880543218576842,1.0,1.0,0.5882352941176471,supply chain analyst with inventory and logistics experience,operations,0.3031389996976941
+hnsw,Q24,10,10,1.0,20,20,0.9580777588003657,1.0,1.0,0.5,operations manager with warehouse and process improvement experience,operations,0.2325880000171309
+hnsw,Q25,10,10,1.0,19,18,0.8600766329607304,1.0,1.0,0.5555555555555556,customer service representative with communication and CRM skills,customer_service,0.1903940001284354
