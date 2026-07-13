@@ -121,6 +121,7 @@ Retrieval quality is evaluated using:
 - nDCG@10
 - MRR@10
 - Precision@10
+- Recall@10
 - ANN Recall@10
 
 Efficiency is evaluated using:
@@ -177,3 +178,6 @@ pip install -r requirements.txt
 4. Build the retrieval indexes.
 5. Evaluate the retrieval methods.
 6. Launch the Streamlit demo.
+
+For the exact workflow using the precomputed 500K corpus and E5 embeddings,
+see [NEXT_STEPS.md](NEXT_STEPS.md).

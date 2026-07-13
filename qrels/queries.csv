@@ -1,0 +1,26 @@
+query_id,query,category
+Q01,junior data analyst with SQL Tableau and Python,data
+Q02,machine learning engineer with NLP PyTorch and transformers,data
+Q03,business intelligence analyst with Power BI and dashboard experience,data
+Q04,data engineer with Spark Airflow and cloud experience,data
+Q05,backend Java developer with Spring Boot and microservices,software
+Q06,frontend developer with React TypeScript and modern web applications,software
+Q07,DevOps engineer with AWS Docker Kubernetes and CI/CD,software
+Q08,mobile iOS developer with Swift and UIKit,software
+Q09,registered nurse with oncology experience,medicine
+Q10,emergency room nurse with acute care experience,medicine
+Q11,physical therapist for outpatient rehabilitation,medicine
+Q12,financial analyst with Excel Power BI and forecasting,finance
+Q13,accountant with tax reporting and audit experience,finance
+Q14,risk analyst with banking and regulatory compliance experience,finance
+Q15,digital marketing specialist with SEO Google Ads and analytics,marketing
+Q16,content marketing manager with social media strategy,marketing
+Q17,remote project manager with Agile Scrum and Jira,project_management
+Q18,technical project manager for software development teams,project_management
+Q19,sales representative with B2B SaaS experience,sales
+Q20,account executive with CRM and enterprise sales experience,sales
+Q21,high school mathematics teacher,education
+Q22,instructional designer for online learning platforms,education
+Q23,supply chain analyst with inventory and logistics experience,operations
+Q24,operations manager with warehouse and process improvement experience,operations
+Q25,customer service representative with communication and CRM skills,customer_service

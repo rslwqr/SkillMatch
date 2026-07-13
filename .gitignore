@@ -31,6 +31,10 @@ data/embeddings/*
 *.pkl
 *.joblib
 
+# Expert judgements and validation queries are small project inputs
+!qrels/annotation_pool.csv
+!qrels/queries.csv
+
 # Notebooks
 .ipynb_checkpoints/
 
