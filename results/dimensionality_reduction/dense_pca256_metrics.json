@@ -1,0 +1,22 @@
+{
+  "system": "dense_pca256",
+  "model": "intfloat/e5-small-v2",
+  "device": "cuda",
+  "documents": 500000,
+  "original_embedding_dimension": 384,
+  "embedding_dimension": 256,
+  "max_seq_length": 512,
+  "embeddings_path": "data/embeddings/e5_small_v2_pca256_embeddings.npy",
+  "pca_model_path": "data/embeddings/e5_small_v2_pca.joblib",
+  "index_build_time_seconds": 0.5970936059998166,
+  "index_vectors": 500000,
+  "index_size_mb": 488.28129291534424,
+  "query_count": 25,
+  "top_k": 20,
+  "query_encoding_time_seconds": 2.257817794999937,
+  "mean_latency_ms": 12.669550480077305,
+  "p95_latency_ms": 15.440569200109156,
+  "min_latency_ms": 9.41478000004281,
+  "max_latency_ms": 67.4521089999871,
+  "final_process_ram_mb": 4341.52734375
+}

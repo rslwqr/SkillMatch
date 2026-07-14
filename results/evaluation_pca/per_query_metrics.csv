@@ -1,0 +1,76 @@
+system,query_id,retrieved_at_k,judged_at_k,judgement_coverage_at_k,judged_documents,relevant_judged_documents,ndcg_at_10,mrr_at_10,precision_at_10,recall_at_10,query,category,latency_ms
+dense_384,Q01,10,10,1.0,20,7,0.6148352923016787,1.0,0.4,0.5714285714285714,junior data analyst with SQL Tableau and Python,data,515.2642819998619
+dense_384,Q02,10,10,1.0,20,9,0.8276541850139321,1.0,0.8,0.8888888888888888,machine learning engineer with NLP PyTorch and transformers,data,19.359463999990112
+dense_384,Q03,10,10,1.0,20,17,0.7671912189922424,1.0,1.0,0.5882352941176471,business intelligence analyst with Power BI and dashboard experience,data,18.91044099966166
+dense_384,Q04,10,10,1.0,19,18,0.5732030805356374,1.0,1.0,0.5555555555555556,data engineer with Spark Airflow and cloud experience,data,20.23030299960737
+dense_384,Q05,10,10,1.0,18,16,0.827879884347265,1.0,1.0,0.625,backend Java developer with Spring Boot and microservices,software,23.610786000062944
+dense_384,Q06,10,10,1.0,17,14,0.7792059123819695,1.0,0.9,0.6428571428571429,frontend developer with React TypeScript and modern web applications,software,21.803325999826484
+dense_384,Q07,10,10,1.0,19,19,0.5799041252609625,1.0,1.0,0.5263157894736842,DevOps engineer with AWS Docker Kubernetes and CI/CD,software,24.77846300007513
+dense_384,Q08,10,10,1.0,16,16,0.6440587583691855,1.0,1.0,0.625,mobile iOS developer with Swift and UIKit,software,20.14399700010472
+dense_384,Q09,10,10,1.0,19,19,0.9552009891550427,1.0,1.0,0.5263157894736842,registered nurse with oncology experience,medicine,19.94844499995452
+dense_384,Q10,10,10,1.0,20,18,0.7020235183818109,1.0,0.9,0.5,emergency room nurse with acute care experience,medicine,19.04322600012165
+dense_384,Q11,10,10,1.0,17,15,0.8489673177896404,1.0,1.0,0.6666666666666666,physical therapist for outpatient rehabilitation,medicine,19.89065700036008
+dense_384,Q12,10,10,1.0,17,13,0.6518747835820288,1.0,0.6,0.46153846153846156,financial analyst with Excel Power BI and forecasting,finance,19.895456000085687
+dense_384,Q13,10,10,1.0,20,19,0.5161430508899977,1.0,0.9,0.47368421052631576,accountant with tax reporting and audit experience,finance,18.819339999936343
+dense_384,Q14,10,10,1.0,20,16,0.3800771462513061,1.0,0.7,0.4375,risk analyst with banking and regulatory compliance experience,finance,19.19236699995963
+dense_384,Q15,10,10,1.0,16,14,0.9566150453737075,1.0,0.9,0.6428571428571429,digital marketing specialist with SEO Google Ads and analytics,marketing,18.945455999983096
+dense_384,Q16,10,10,1.0,18,17,0.9264983288251022,1.0,1.0,0.5882352941176471,content marketing manager with social media strategy,marketing,18.85006400016209
+dense_384,Q17,10,10,1.0,18,14,0.623400080939452,1.0,0.7,0.5,remote project manager with Agile Scrum and Jira,project_management,18.93155800007662
+dense_384,Q18,10,10,1.0,19,19,0.7317403027165548,1.0,1.0,0.5263157894736842,technical project manager for software development teams,project_management,18.958983000175067
+dense_384,Q19,10,10,1.0,18,18,0.877666448931519,1.0,1.0,0.5555555555555556,sales representative with B2B SaaS experience,sales,19.710813000074268
+dense_384,Q20,10,10,1.0,19,19,0.7676346971971055,1.0,1.0,0.5263157894736842,account executive with CRM and enterprise sales experience,sales,23.573443999794108
+dense_384,Q21,10,10,1.0,17,12,0.7860998276264536,1.0,0.7,0.5833333333333334,high school mathematics teacher,education,22.18749899975592
+dense_384,Q22,10,10,1.0,18,18,0.911671805955201,1.0,1.0,0.5555555555555556,instructional designer for online learning platforms,education,21.100755999668763
+dense_384,Q23,10,10,1.0,17,17,0.880543218576842,1.0,1.0,0.5882352941176471,supply chain analyst with inventory and logistics experience,operations,19.95397500013496
+dense_384,Q24,10,10,1.0,20,20,0.9580777588003657,1.0,1.0,0.5,operations manager with warehouse and process improvement experience,operations,18.64805500008515
+dense_384,Q25,10,10,1.0,19,18,0.8600766329607304,1.0,1.0,0.5555555555555556,customer service representative with communication and CRM skills,customer_service,19.17704900006356
+dense_pca256,Q01,10,7,0.7,20,7,0.4741350216460528,1.0,0.4,0.5714285714285714,junior data analyst with SQL Tableau and Python,data,67.4521089999871
+dense_pca256,Q02,10,7,0.7,20,9,0.7854057076077698,1.0,0.6,0.6666666666666666,machine learning engineer with NLP PyTorch and transformers,data,10.946096999759902
+dense_pca256,Q03,10,6,0.6,20,17,0.47331147782075744,1.0,0.6,0.35294117647058826,business intelligence analyst with Power BI and dashboard experience,data,16.220334000081493
+dense_pca256,Q04,10,6,0.6,19,18,0.4261024938506526,1.0,0.6,0.3333333333333333,data engineer with Spark Airflow and cloud experience,data,10.02220300006229
+dense_pca256,Q05,10,8,0.8,18,16,0.7085516263358015,1.0,0.8,0.5,backend Java developer with Spring Boot and microservices,software,9.43430500001341
+dense_pca256,Q06,10,8,0.8,17,14,0.6199084791212877,1.0,0.7,0.5,frontend developer with React TypeScript and modern web applications,software,10.753852000107145
+dense_pca256,Q07,10,9,0.9,19,19,0.5387892544341523,1.0,0.9,0.47368421052631576,DevOps engineer with AWS Docker Kubernetes and CI/CD,software,9.731269999974757
+dense_pca256,Q08,10,10,1.0,16,16,0.6288017670578113,1.0,1.0,0.625,mobile iOS developer with Swift and UIKit,software,9.47702700023001
+dense_pca256,Q09,10,7,0.7,19,19,0.7093753650484101,1.0,0.7,0.3684210526315789,registered nurse with oncology experience,medicine,10.291420000157814
+dense_pca256,Q10,10,4,0.4,20,18,0.4063741199209579,1.0,0.4,0.2222222222222222,emergency room nurse with acute care experience,medicine,10.330091000014365
+dense_pca256,Q11,10,7,0.7,17,15,0.6887899319190448,1.0,0.7,0.4666666666666667,physical therapist for outpatient rehabilitation,medicine,9.752966000178276
+dense_pca256,Q12,10,8,0.8,17,13,0.5856443585932285,0.5,0.6,0.46153846153846156,financial analyst with Excel Power BI and forecasting,finance,9.869939000054728
+dense_pca256,Q13,10,4,0.4,20,19,0.3308045167223004,1.0,0.4,0.21052631578947367,accountant with tax reporting and audit experience,finance,9.783734999928129
+dense_pca256,Q14,10,8,0.8,20,16,0.2983998383458567,1.0,0.5,0.3125,risk analyst with banking and regulatory compliance experience,finance,9.967946999950072
+dense_pca256,Q15,10,7,0.7,16,14,0.7519938635547966,1.0,0.6,0.42857142857142855,digital marketing specialist with SEO Google Ads and analytics,marketing,9.98017100027937
+dense_pca256,Q16,10,8,0.8,18,17,0.8769451824728502,1.0,0.8,0.47058823529411764,content marketing manager with social media strategy,marketing,9.740003000388242
+dense_pca256,Q17,10,9,0.9,18,14,0.5108121928334265,0.5,0.7,0.5,remote project manager with Agile Scrum and Jira,project_management,9.41478000004281
+dense_pca256,Q18,10,8,0.8,19,19,0.578628582487327,1.0,0.8,0.42105263157894735,technical project manager for software development teams,project_management,12.32151000021986
+dense_pca256,Q19,10,9,0.9,18,18,0.8385444421638286,1.0,0.9,0.5,sales representative with B2B SaaS experience,sales,11.717367000073864
+dense_pca256,Q20,10,7,0.7,19,19,0.5251243751901867,1.0,0.7,0.3684210526315789,account executive with CRM and enterprise sales experience,sales,10.778919000131282
+dense_pca256,Q21,10,4,0.4,17,12,0.3498331105300784,1.0,0.2,0.16666666666666666,high school mathematics teacher,education,9.91642300004969
+dense_pca256,Q22,10,10,1.0,18,18,0.874233276401097,1.0,1.0,0.5555555555555556,instructional designer for online learning platforms,education,9.477147000325203
+dense_pca256,Q23,10,6,0.6,17,17,0.5108238176830375,0.5,0.6,0.35294117647058826,supply chain analyst with inventory and logistics experience,operations,10.483694999948057
+dense_pca256,Q24,10,6,0.6,20,20,0.6644464825110704,1.0,0.6,0.3,operations manager with warehouse and process improvement experience,operations,9.440277000067
+dense_pca256,Q25,10,7,0.7,19,18,0.6132569157731383,1.0,0.7,0.3888888888888889,customer service representative with communication and CRM skills,customer_service,9.435174999907758
+dense_pca128,Q01,10,6,0.6,20,7,0.3473881085568552,0.16666666666666666,0.4,0.5714285714285714,junior data analyst with SQL Tableau and Python,data,47.38124400000743
+dense_pca128,Q02,10,4,0.4,20,9,0.5649346765522172,1.0,0.4,0.4444444444444444,machine learning engineer with NLP PyTorch and transformers,data,25.91549700036921
+dense_pca128,Q03,10,6,0.6,20,17,0.37730907011554876,1.0,0.6,0.35294117647058826,business intelligence analyst with Power BI and dashboard experience,data,17.075202999876637
+dense_pca128,Q04,10,2,0.2,19,18,0.3155409756109587,1.0,0.2,0.1111111111111111,data engineer with Spark Airflow and cloud experience,data,8.743645999857108
+dense_pca128,Q05,10,6,0.6,18,16,0.4929115221968399,1.0,0.6,0.375,backend Java developer with Spring Boot and microservices,software,5.300291999901674
+dense_pca128,Q06,10,7,0.7,17,14,0.504587178755177,1.0,0.6,0.42857142857142855,frontend developer with React TypeScript and modern web applications,software,5.088672000056249
+dense_pca128,Q07,10,7,0.7,19,19,0.39960421842905974,1.0,0.7,0.3684210526315789,DevOps engineer with AWS Docker Kubernetes and CI/CD,software,6.021518999659747
+dense_pca128,Q08,10,9,0.9,16,16,0.61021859777137,1.0,0.9,0.5625,mobile iOS developer with Swift and UIKit,software,5.226291999861132
+dense_pca128,Q09,10,5,0.5,19,19,0.5743371894486218,1.0,0.5,0.2631578947368421,registered nurse with oncology experience,medicine,5.116821000228811
+dense_pca128,Q10,10,3,0.3,20,18,0.2604535386579968,1.0,0.3,0.16666666666666666,emergency room nurse with acute care experience,medicine,5.139026000051672
+dense_pca128,Q11,10,3,0.3,17,15,0.2650016972980674,1.0,0.3,0.2,physical therapist for outpatient rehabilitation,medicine,5.9484479997991
+dense_pca128,Q12,10,5,0.5,17,13,0.4508480442655597,1.0,0.4,0.3076923076923077,financial analyst with Excel Power BI and forecasting,finance,5.260581999664282
+dense_pca128,Q13,10,3,0.3,20,19,0.29452033973293384,1.0,0.3,0.15789473684210525,accountant with tax reporting and audit experience,finance,5.198483999720338
+dense_pca128,Q14,10,5,0.5,20,16,0.18678311989963242,0.5,0.3,0.1875,risk analyst with banking and regulatory compliance experience,finance,5.134525999892503
+dense_pca128,Q15,10,7,0.7,16,14,0.8013036765469034,1.0,0.6,0.42857142857142855,digital marketing specialist with SEO Google Ads and analytics,marketing,5.1463079998939065
+dense_pca128,Q16,10,1,0.1,18,17,0.2483795313844281,1.0,0.1,0.058823529411764705,content marketing manager with social media strategy,marketing,8.134751999932632
+dense_pca128,Q17,10,7,0.7,18,14,0.31683705409481555,0.25,0.5,0.35714285714285715,remote project manager with Agile Scrum and Jira,project_management,5.672898999819154
+dense_pca128,Q18,10,8,0.8,19,19,0.6365056480436829,1.0,0.8,0.42105263157894735,technical project manager for software development teams,project_management,5.264883000108966
+dense_pca128,Q19,10,8,0.8,18,18,0.6804503512076047,1.0,0.8,0.4444444444444444,sales representative with B2B SaaS experience,sales,5.076759000075981
+dense_pca128,Q20,10,4,0.4,19,19,0.24768607365792536,0.5,0.4,0.21052631578947367,account executive with CRM and enterprise sales experience,sales,5.9262720001243
+dense_pca128,Q21,10,4,0.4,17,12,0.2449619209807219,0.5,0.2,0.16666666666666666,high school mathematics teacher,education,5.118131000017456
+dense_pca128,Q22,10,8,0.8,18,18,0.7543980453183485,1.0,0.8,0.4444444444444444,instructional designer for online learning platforms,education,5.100886000036553
+dense_pca128,Q23,10,4,0.4,17,17,0.35266373843404347,0.3333333333333333,0.4,0.23529411764705882,supply chain analyst with inventory and logistics experience,operations,5.058463999830565
+dense_pca128,Q24,10,7,0.7,20,20,0.7213437984821366,1.0,0.7,0.35,operations manager with warehouse and process improvement experience,operations,5.123731999901793
+dense_pca128,Q25,10,6,0.6,19,18,0.5251562753111839,1.0,0.6,0.3333333333333333,customer service representative with communication and CRM skills,customer_service,5.897493999782455
